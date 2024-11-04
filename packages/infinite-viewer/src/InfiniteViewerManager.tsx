@@ -402,7 +402,7 @@ class InfiniteViewer extends EventEmitter<InfiniteViewerEvents> {
         return this.viewportWidth;
     }
     public getViewportHeight() {
-        return this.viewportWidth;
+        return this.viewportHeight;
     }
     public getViewportScrollWidth() {
         return this.viewportScrollWidth;
